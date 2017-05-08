@@ -8,6 +8,10 @@
   ],
   "preferGlobal": true,
   "homepage": "https://github.com/feedhenry/fh-fhc",
+  "repository" :
+  { "type" : "git"
+  , "url" : "git+https://github.com/feedhenry/fh-fhc.git"
+  },
   "author": "FeedHenry<npm@feedhenry.com>",
   "directories": {
     "doc": "./doc",
